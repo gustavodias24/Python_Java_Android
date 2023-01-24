@@ -12,7 +12,7 @@ Se tu quiseres saber mais sobre o puglin usado no projeto <a href="https://githu
 </p>
 
 <div
-style="display:inline;"
+style="display:block;"
 >
 <p>teste</p> <p>teste</p>
 </div>
