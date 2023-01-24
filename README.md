@@ -17,3 +17,5 @@ Se tu quiseres saber mais sobre o puglin usado no projeto <a href="https://githu
   <img style="width:400px; height:750px;" src="https://github.com/gustavodias24/Python_Java_Android/blob/master/img1.jpeg" alt="cachorros api"/>
   <img style="width:400px; height:750px;" src="https://github.com/gustavodias24/Python_Java_Android/blob/master/img2.jpeg" alt="soma"/>
 </div>
+
+<p>Se tu quiseres testar o app <a href="https://github.com/gustavodias24/Python_Java_Android/blob/master/app/release/pyJavaTeste.apk">clique aqui</a></p>
