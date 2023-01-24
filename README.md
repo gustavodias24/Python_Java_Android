@@ -11,9 +11,7 @@ Projeto com finalidade de compartilhar conhecimento, estou rodando uma aplicaç�
 Se tu quiseres saber mais sobre o puglin usado no projeto <a href="https://github.com/chaquo/chaquopy">clique aqui</a> para ir de encontro com o github oficial deles, também foi usado a Api de imagens aleatório de cachorros da <a href="https://dog.ceo/">dog.ceo</a>
 </p>
 
-<div
-style="display: flex;"
->
-<img src="https://github.com/gustavodias24/Python_Java_Android/blob/master/img1.jpeg" alt="cachorros api"/>
-<img src="https://github.com/gustavodias24/Python_Java_Android/blob/master/img2.jpeg" alt="soma"/>
+<div>
+  <img style="width:100px; height:250px;" src="https://github.com/gustavodias24/Python_Java_Android/blob/master/img1.jpeg" alt="cachorros api"/>
+  <img style="width:100px; height:250px;" src="https://github.com/gustavodias24/Python_Java_Android/blob/master/img2.jpeg" alt="soma"/>
 </div>
