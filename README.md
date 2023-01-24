@@ -12,7 +12,8 @@ Se tu quiseres saber mais sobre o puglin usado no projeto <a href="https://githu
 </p>
 
 <div
-style="display:block;"
+style="display: flex;"
 >
-<p>teste</p> <p>teste</p>
+<img src="https://github.com/gustavodias24/Python_Java_Android/blob/master/img1.jpeg" alt="cachorros api"/>
+<img src="https://github.com/gustavodias24/Python_Java_Android/blob/master/img2.jpeg" alt="soma"/>
 </div>
