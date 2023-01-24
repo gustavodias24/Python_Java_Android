@@ -1,10 +1,9 @@
 # Python_Java_Android
 Projeto com finalidade de compartilhar conhecimento, estou rodando uma aplicação que consome uma Api de imagens aleatórias de cachorros e somar 2 números, tudo rodando em Python no backend
 
-<h1>Tutorial de um Gringo:</h1>
-![video]([https://user-images.githubusercontent.com/34013325/57036076-aa695700-6c29-11e9-8c4d-fc78fecdae46.png](https://www.youtube.com/watch?v=27kdAqDUpcE))
+<h1>Tutorial:</h1>
 
-<p>Esse projeto também foi feito seguindo o tutorial presente no <a href="https://chaquo.com/chaquopy/doc/current/android.html">site oficial da chaquopy</a></p>
+<p>Esse projeto  foi feito seguindo o tutorial presente no <a href="https://chaquo.com/chaquopy/doc/current/android.html">site oficial da chaquopy</a></p>
 
 <h1>Mais informações:</h1>
 
