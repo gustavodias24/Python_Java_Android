@@ -10,3 +10,9 @@ Projeto com finalidade de compartilhar conhecimento, estou rodando uma aplicaç�
 <p>
 Se tu quiseres saber mais sobre o puglin usado no projeto <a href="https://github.com/chaquo/chaquopy">clique aqui</a> para ir de encontro com o github oficial deles, também foi usado a Api de imagens aleatório de cachorros da <a href="https://dog.ceo/">dog.ceo</a>
 </p>
+
+<div
+style="display:inline;"
+>
+<p>teste</p> <p>teste</p>
+</div>
